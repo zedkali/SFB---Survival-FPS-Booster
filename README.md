@@ -1,4 +1,7 @@
 # SFB---Survival-FPS-Booster
+
+![Uploading image_1_1769018070180.jpg…]()
+
 SFB - Survival FPS Booster
 Hello! You probably know how it is — you're playing your favorite hardcore survival sandbox game, you enter a big city, and your FPS drops so low that you want to cry. Trees are rendered right in front of your nose, zombies twitch, and in PvP, it's not skill that decides everything, but lag.
 
